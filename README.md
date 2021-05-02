@@ -3,7 +3,7 @@ train.py - Trains the model
 
 visualize.py - Visualizes the detections (tests)
 
-restApi.py - Clls the vsualization
+restApi.py - Calls the visualization
 
 main.py - NOT NEEDED, used for debugging
 
