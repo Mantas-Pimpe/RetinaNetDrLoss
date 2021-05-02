@@ -1,0 +1,6 @@
+OIDv6/
+data/
+__pycache__/
+.idea/
+venv/
+target/
